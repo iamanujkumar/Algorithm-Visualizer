@@ -63,6 +63,4 @@ The application includes visualizations for several algorithms, organized into t
     - Fast Exponentiation
     - Stirling Number of Second Kind
 
-## Acknowledgment
-- A special thanks to **Tamim Ehsan** .
 
