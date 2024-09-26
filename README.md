@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/anuj-kumar-a7954a257" target="blank"><img align="center" src="https://github.com/iamanujkumar/algorithm-visualizer/blob/main/src/homeComponents/images/Screenshot%202024-09-27%20020133.png" alt="anuj-kumar-a7954a257" /></a>
+<a href="https://github.com/iamanujkumar/algorithm-visualizer/blob/main/src/homeComponents/images/Screenshot%202024-09-27%20020913.png" target="blank"><img align="center" src="https://github.com/iamanujkumar/algorithm-visualizer/blob/main/src/homeComponents/images/Screenshot%202024-09-27%20020913.png" alt="github.com/iamanujkumar" /></a>
 
 # Algorithm Visualizer
 
@@ -8,7 +8,7 @@ A React-based application for visualizing a variety of algorithms. This project 
 
 ## Live Demo
 
-Explore the live application here: [Algorithm Visualizer](https://iamanujkumar.github.io/algorithm-visualizer/#/)
+Live Application Visit : [Algorithm Visualizer](https://iamanujkumar.github.io/algorithm-visualizer/#/)
 
 ## Features
 
