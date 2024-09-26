@@ -1,3 +1,5 @@
+<a href="https://linkedin.com/in/anuj-kumar-a7954a257" target="blank"><img align="center" src="https://github.com/iamanujkumar/algorithm-visualizer/blob/main/src/homeComponents/images/Screenshot%202024-09-27%20020133.png" alt="anuj-kumar-a7954a257" /></a>
+
 # Algorithm Visualizer
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iamanujkumar.algorithm-visualizer)
