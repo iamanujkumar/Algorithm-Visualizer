@@ -63,10 +63,3 @@ The application includes visualizations for several algorithms, organized into t
     - Fast Exponentiation
     - Stirling Number of Second Kind
 
-## Run Locally
-
-To run the project locally, ensure you have Node.js installed, then execute the following commands:
-
-```bash
-npm install
-npm start
