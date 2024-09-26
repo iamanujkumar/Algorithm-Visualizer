@@ -1,0 +1,81 @@
+
+.type{
+    width: 50%;
+    align-content: center;
+    background-color: #282c34;
+    text-align: center;
+    font-family: "Roboto Slab ExtraLight";
+}
+
+
+.page-footer {
+    background: linear-gradient(135deg, #5f0dedb1, #5b0ba1, #7f08a3); /* Dark background for footer */
+    color: aliceblue; /* Light text color */
+    padding: 20px 0; /* Added padding for better spacing */
+}
+
+.footer-copyright {
+    color: white; /* White text color for copyright */
+    background-color: rgba(31, 30, 30, 0.294); /* Dark background for copyright section */
+    padding: 10px 0; /* Add padding for aesthetics */
+}
+
+ul.list-unstyled li a {
+    color: aliceblue; /* Link color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s; /* Smooth transition for hover */
+}
+
+ul.list-unstyled li a:hover {
+    color: #5f0ded; /* Change color on hover */
+}
+
+.github-btn {
+    margin-top: 10px; /* Add margin for spacing */
+}
+
+/* Media query for responsive design */
+@media (max-width: 768px) {
+    .page-footer {
+        text-align: center; /* Center footer text on small screens */
+    }
+
+    .footer-copyright {
+        font-size: 0.9rem; /* Adjust font size for smaller screens */
+    }
+}
+
+
+.greet {
+    text-align: center;
+    background: linear-gradient(135deg, #5f0dedb1, #5b0ba1, #7f08a3);
+    color: white;
+    padding: 4px;
+    position: relative; /* Ensure the elements inside can be adjusted relatively */
+}
+
+.algo-grow {
+    text-align: left; /* Align 'Algo Grow' to the left */
+    margin-left: 0; /* Remove any extra margin */
+    position: absolute; /* Position it absolutely within the parent */
+    left: 10px; /* Set the left distance, you can adjust this value */
+}
+
+.display-5 {
+    text-align: center; /* Keep the main heading centered */
+}
+
+@media (max-width: 768px) {
+    .algo-grow {
+        font-size: 1.2rem; /* Reduce font size for smaller screens */
+        left: 5px; /* Adjust position */
+    }
+
+    .display-5 {
+        font-size: 2rem; /* Adjust font size for smaller screens */
+    }
+
+    .page-footer {
+        text-align: center; /* Center footer text on small screens */
+    }
+}
