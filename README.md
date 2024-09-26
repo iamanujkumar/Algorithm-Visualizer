@@ -1,6 +1,6 @@
 # Algorithm Visualizer
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iamanujkumar/algorithm-visualizer)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iamanujkumar.algorithm-visualizer)
 
 A React-based application for visualizing a variety of algorithms. This project aims to provide an engaging and interactive way to understand complex algorithmic concepts through visualization.
 
