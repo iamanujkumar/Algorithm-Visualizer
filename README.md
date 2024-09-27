@@ -8,7 +8,7 @@ A React-based application for visualizing a variety of algorithms. This project 
 
 ## Live Demo
 
-Live Application Visit : [Algorithm Visualizer](https://iamanujkumar.github.io/algorithm-visualizer/#/)
+Live Application Visit : https://iamanujkumar.github.io/algorithm-visualizer/#/
 
 ## Features
 
