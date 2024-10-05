@@ -65,4 +65,7 @@ The application includes visualizations for several algorithms, organized into t
     - Fast Exponentiation
     - Stirling Number of Second Kind
 
+- **Special Features**
+Commit 16: Added Flip Move animation to inplace sorting components
+Commit 20: Added Tree Structure
 
