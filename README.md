@@ -70,5 +70,5 @@ The application includes visualizations for several algorithms, organized into t
 -  Added Tree Structure
   
 ## Run locally
-npm i
-npm run start
+- npm i
+- npm run start
