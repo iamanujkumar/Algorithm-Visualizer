@@ -68,6 +68,7 @@ The application includes visualizations for several algorithms, organized into t
 ## Special Features
 - Added Flip Move animation to inplace sorting components
 -  Added Tree Structure
+
   
 ## Run locally
 - npm i
